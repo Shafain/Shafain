@@ -23,10 +23,11 @@
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raul.ibrahimov@stu.khas.edu.tr)
 
-## Github Stats & Contribution
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
 
+## 📊 GitHub Stats & Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafain&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafain&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shafain&theme=radical)  
 
 

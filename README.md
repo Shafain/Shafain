@@ -28,7 +28,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafain&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafain&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats/?user=Shafain&theme=radical)
+![GitHub Streak](./streak.png)
 
 
 

@@ -20,7 +20,8 @@
 
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/raul-ibrahimov-4b031b210/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-ibrahimov-4b031b210/)
+
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raul.ibrahimov@stu.khas.edu.tr)
 
 ## Github Stats & Contribution

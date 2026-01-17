@@ -31,8 +31,3 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raul.ibrahimov@stu.khas.edu.tr)
 
 
-## 📊 GitHub Stats & Contributions
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafain&layout=compact&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafain&layout=compact&theme=radical)

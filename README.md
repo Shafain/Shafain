@@ -1,7 +1,6 @@
 # Hi there 👋, I am Raul Ibrahimov
 
-🎮 Third-year Computer Engineering student at Kadir Has University with a passion for **game development** and **ethical hacking**.  
-🛡️ Experienced with Godot, Unity, Unreal Engine, Kali Linux, and penetration testing.  
+Third-year Computer Engineering student at Kadir Has University 
 🚀 Constantly learning, building, and participating in game jams.  
 ## Technologies and Tools
 

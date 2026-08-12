@@ -1,7 +1,7 @@
 # Hi there 👋, I am Raul Ibrahimov
 
-Third-year Computer Engineering student at Kadir Has University 
-🚀 Constantly learning, building, and participating in game jams.  
+Third-year Computer Engineering student at Kadir Has University. 
+
 ## Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

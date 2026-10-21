@@ -1,6 +1,6 @@
 # Hi there 👋, I am Raul Ibrahimov
 
-Third-year Computer Engineering student at Kadir Has University. 
+Fourth-year Computer Engineering student at Kadir Has University. 
 
 ## Technologies and Tools
 
